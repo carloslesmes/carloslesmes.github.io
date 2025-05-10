@@ -1,4 +1,4 @@
-# Temas de estadísticas con R, Julia y Python
+# Temas de Estadística con R, Julia y Python
 
 ## Julia
 
