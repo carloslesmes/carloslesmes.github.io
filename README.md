@@ -6,6 +6,8 @@
 
 ## R
 
-[ggplot2](https://carloslesmes.github.io/ggplot2/)
+1. [ggplot2](https://carloslesmes.github.io/ggplot2/)
+2. [ggplot2-Ejes](https://carloslesmes.github.io/ggplot2-Ejes)
+
 
 ## Python
