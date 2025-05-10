@@ -1,1 +1,10 @@
-Contiene ipython notebooks, archivos .qmd con temas de R, Julia y Python.
+# Temas de estadísticas con R, Julia y Python
+
+## Julia
+
+[Distribuciones Muestrales](https://carloslesmes.github.io/DM-Julia)
+
+## R
+
+
+## Python
