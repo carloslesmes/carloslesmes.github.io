@@ -1,4 +1,4 @@
-# Temas de Estadística con R, Julia y Python
+# Temas de Estadística con R, Julia, Python y algunos tópicos de Typst
 
 ## Julia
 
@@ -11,3 +11,5 @@
 
 
 ## Python
+
+## Typst
