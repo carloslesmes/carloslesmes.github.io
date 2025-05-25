@@ -2,7 +2,8 @@
 
 ## Julia
 
-[Distribuciones Muestrales](https://carloslesmes.github.io/DM-Julia)
+1. [Distribuciones Muestrales](https://carloslesmes.github.io/DM-Julia)
+2. [Intervalos de confianza](https://carloslesmes.github.io/IC_una_muestra)
 
 ## R
 
