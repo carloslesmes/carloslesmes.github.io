@@ -13,3 +13,5 @@
 ## Python
 
 ## Typst
+
+1. [Typst cheatsheet](https://carloslesmes.github.io/TypstCheatsheet/)
