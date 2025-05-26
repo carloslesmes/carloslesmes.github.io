@@ -1,4 +1,4 @@
-# Temas de Estadística con R, Julia, Python y algunos tópicos de Typst
+# Temas de Estadística con R, Julia, Python y algunos tópicos de documentos con Typst, Quarto, Markdown, etc
 
 ## Julia
 
