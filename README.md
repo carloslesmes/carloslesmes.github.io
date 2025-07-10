@@ -13,7 +13,7 @@
 
 ## Python
 
-[seaborn](https://carloslesmes.github.io/seaborn)
+1. [seaborn](https://carloslesmes.github.io/seaborn)
 
 ## Typst
 
