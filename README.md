@@ -13,6 +13,8 @@
 
 ## Python
 
+[seaborn](https://carloslesmes.github.io/seaborn)
+
 ## Typst
 
 1. [Typst cheatsheet](https://carloslesmes.github.io/TypstCheatsheet/)
