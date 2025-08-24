@@ -2,8 +2,9 @@
 
 ## Julia
 
-1. [Distribuciones Muestrales](https://carloslesmes.github.io/DM-Julia)
-2. [Intervalos de confianza](https://carloslesmes.github.io/IC_1_muestra)
+1. [Julia visualization](https://carloslesmes.github.io/Juliaviz)
+2. [Distribuciones Muestrales](https://carloslesmes.github.io/DM-Julia)
+3. [Intervalos de confianza](https://carloslesmes.github.io/IC_1_muestra)
 
 ## R
 
