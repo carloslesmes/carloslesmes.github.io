@@ -6,6 +6,7 @@
 2. [Distribuciones Muestrales](https://carloslesmes.github.io/DM-Julia)
 3. [Intervalos de confianza](https://carloslesmes.github.io/IC_1_muestra)
 4. [Distributions.jl cheatsheet](https://carloslesmes.github.io/Julia-Distributions-Cheatsheet)
+5. [Resumen algunas distribuciones continuas en Julia](https://carloslesmes.github.io/)
 
 ## R
 
