@@ -21,6 +21,6 @@
 ## Typst
 
 1. [Typst cheatsheet](https://carloslesmes.github.io/TypstCheatsheet/)
-2. [Typst scripting](https://carloslesmes.github.io//
+2. [Typst scripting](https://carloslesmes.github.io/Typst-scripting/)
 
 Escribir con markdown
